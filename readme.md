@@ -2,7 +2,9 @@
 <img alt="Chatty" title="Chatty" src="https://i.ibb.co/mBRsFY0/Grupo-20.png" />
 </h1>
 
+<h1 align="center">
 <img alt="Chatty" title="Chatty" src="https://i.ibb.co/TLs08Nx/Grupo-19.png" />
+</h1>
 
 ## 💻 About
 
